@@ -2,15 +2,14 @@
 Welcome to the Simon Says Game repository! This project is a web-based implementation of the classic Simon Says memory game, created using HTML, CSS, and JavaScript.
 
 ## Table of Contents
-Introduction
-Features
-Technologies Used
-Installation
-Usage
-Gameplay
-Contributing
-License
-Acknowledgements
+1. Introduction
+2. Features
+3. Technologies Used
+4. Installation
+5. Usage
+6. Gameplay
+7. Contributing
+8. Acknowledgements
 
 ## Introduction
 Simon Says is a fun and challenging memory game where players must replicate sequences of colors and sounds. The game becomes progressively more difficult as the sequence gets longer and faster. This implementation is designed to be simple, interactive, and enjoyable for all ages.
